@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="Newsletter Signup Page"
               description=" Newsletter Sign Up page for mailchimp account through email using HTML,CSS,Bootstrap and Javascript, nodejs and expressjs and deploying it on heroku"
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/arc2001/Newsletter"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
